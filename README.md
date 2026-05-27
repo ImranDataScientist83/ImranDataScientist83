@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mas Imran
+# 👋 MAS IMRAN
 
 **Applied Machine Learning Engineer | Production-Oriented AI Systems**
 
