@@ -4,7 +4,8 @@
 
 Master of Computer Science (Feb 2026) | Specialization in Data Science & AI
 
-📍 Singapore
+**📍 Singapore**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore Flag" width="40"/>
 
 ---
 
